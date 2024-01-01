@@ -40,7 +40,7 @@ let order = (time,work)=>{
             setTimeout(()=>{
                 resolve(work())
 
-            },time)
+            }time)
             
         }
         else{
