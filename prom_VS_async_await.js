@@ -5,7 +5,7 @@ let stocks={
     toppings:["chocolate","peanuts"]
 };
 
-let shopoepen = true;
+let shopoepen = false;
 
 //Promise-----------------------------------------------
 // let order = ()=>{
@@ -122,7 +122,7 @@ let stock={
     toppings:["chocolate","peanuts"]
 };
 
-let shop = true;
+let shop = false;
 
 function icecream(ms){
     return new Promise((resolve, reject) => {
