@@ -8,8 +8,8 @@ let json = () => {
 
 json();
 
-const obj = {name: "John", age: 30, city: "New York"};
+const obj = {name: "Jacki", age: 39, city: "New York"};
 let string = JSON.stringify(obj)
 console.log(string)
-console.log(typeof(obj))
+console.log(typeof(obj)
 console.log(typeof(string))
