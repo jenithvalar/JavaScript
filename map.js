@@ -1,5 +1,5 @@
 const num = [10,20,30,40,50];
-let sqr=num.map((value)=>{
+let sqr=num.map((value)={
     console.log(value);
 //     return Math.sqrt(value).toFixed(2);
 
@@ -66,7 +66,7 @@ let sqr=num.map((value)=>{
 // });
 // console.log(emp)
 
-const employees = new map [  
+const employees = nee map [  
     {"name":"Shyam", "email":"shyamjaiswal@gmail.com","age":21},  
     {"name":"Bob", "email":"bob32@gmail.com","age":23},  
     {"name":"Jai", "email":"jai87@gmail.com","age":17}  
